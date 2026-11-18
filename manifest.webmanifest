@@ -1,0 +1,18 @@
+{
+  "name": "Deadline Monitor \u2014 Command Center",
+  "short_name": "Deadlines",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b1118",
+  "theme_color": "#101923",
+  "description": "Personal deadline command center",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
